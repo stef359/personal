@@ -1,3 +1,1 @@
-// Personal website
-
-stefanossavvides.com
+Personal website
