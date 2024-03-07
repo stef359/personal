@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(169, 191, 192);
+  font-size: 17px;
+  font-family: "Courier New", Courier, monospace;
+  font-display: white;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.logo {
+  width: 20px;
+  height: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  list-style-type: none; /* Removes the bullet points */
+}
+
+ul li {
+  margin-bottom: 10px; /* Adds some spacing between each skill */
+}
